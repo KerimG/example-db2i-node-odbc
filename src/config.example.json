@@ -1,0 +1,3 @@
+{
+  "connectionString": "DSN=bar;Driver=IBM i Access ODBC Driver;Password=foo;UserID=baz;CCSID=1208"
+}
